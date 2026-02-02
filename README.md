@@ -1,2 +1,2 @@
 # vaeMods
-modifying vae encoders to improve image generation
+[Full notebook](Assignment3-VariationAutoencoders.ipynb)
